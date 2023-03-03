@@ -154,7 +154,7 @@
     background-color: #eeeeee;
     align-items: flex-start;
     /*justify-content: space-between;*/
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-wrap: wrap; 
 }
 
